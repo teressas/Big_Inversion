@@ -1,4 +1,4 @@
-Description
+## Description
 
 Redo of the Prop It Up assignment and turned the class components into functional components.
 
